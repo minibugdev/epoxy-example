@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Epoxy Example</string>
+    <string name="label_category">Shop by Category</string>
+    <string name="label_promotion">Promotion Of The Month</string>
+</resources>
